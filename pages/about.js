@@ -5,7 +5,8 @@ import ServicesSlider from '../components/home/ServicesSlider'
 import FAQ from '../components/home/FAQ'
 import NewsLetter from '../components/NewsLetter'
 import WhySec from '../components/home/WhySec'
-import {HiArrowNarrowLeft} from 'react-icons/hi'
+import { HiArrowNarrowLeft } from 'react-icons/hi'
+// commnt
 const about = () => {
     return (
         <div className='main'>
@@ -32,12 +33,12 @@ const about = () => {
                         <div className="serBox">
                             <h1 className="serBoxHdng">
                                 ”
-                                 إلتزامك 
-                                  ب<span className="red">القانون    
+                                إلتزامك
+                                ب<span className="red">القانون
                                 </span>
 
                                 <br />
-                                يعني مساهمتك في توفير 
+                                يعني مساهمتك في توفير
                                 <br />
                                 الحرية لك
                                 “
